@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi, I'm Senthamil ✨
+- 🌱 I’m currently learning 
 <!--
 **Senthamil-Selvan-17/Senthamil-Selvan-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
