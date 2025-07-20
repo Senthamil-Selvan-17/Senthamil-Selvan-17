@@ -1,5 +1,5 @@
 ## Hi, I'm Senthamil ✨
-🧠Through a mix of brainstorming and trial-and-error, I found what clicks for me — logic.<br/>
+🧠Through a mix of grinding, brainstorming and trial-and-error, I found what clicks for me — coding on logics.<br/>
      Currently building my backend skills with Django.
 <!--
 **Senthamil-Selvan-17/Senthamil-Selvan-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
